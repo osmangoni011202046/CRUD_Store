@@ -43,11 +43,11 @@ This project is a simple CRUD (Create, Read, Update, Delete) application for man
 ## Screenshots
 
 1. **Homepage**
-   ![Homepage](frontend/screen_shot/1.png)
+   ![Homepage](/frontend/scereen_shot/1.png)
 2. **Create Page**
-   ![Create Page](frontend/screen_shot/2.png)
+   ![Create Page](/frontend/scereen_shot/2.png)
 3. **Edit Modal**
-   ![Edit Modal](frontend/screen_shot/3.png)
+   ![Edit Modal](/frontend/scereen_shot/3.png)
 
 ---
 
@@ -67,23 +67,6 @@ This project is a simple CRUD (Create, Read, Update, Delete) application for man
    git clone <repository-url>
    cd <repository-folder>
    ```
-
-2. Install dependencies for both frontend and backend:
-
-   ```bash
-   cd frontend
-   npm install
-   cd ../backend
-   npm install
-   ```
-
-3. Configure environment variables:
-   - Create a `.env` file in the `backend` folder.
-   - Add the following variables:
-     ```env
-     MONGO_URI=<your-mongo-atlas-connection-string>
-     PORT=5000
-     ```
 
 ### Build and Start the Application
 
