@@ -68,23 +68,6 @@ This project is a simple CRUD (Create, Read, Update, Delete) application for man
    cd <repository-folder>
    ```
 
-2. Install dependencies for both frontend and backend:
-
-   ```bash
-   cd frontend
-   npm install
-   cd ../backend
-   npm install
-   ```
-
-3. Configure environment variables:
-   - Create a `.env` file in the `backend` folder.
-   - Add the following variables:
-     ```env
-     MONGO_URI=<your-mongo-atlas-connection-string>
-     PORT=5000
-     ```
-
 ### Build and Start the Application
 
 1. To run the production build locally:
