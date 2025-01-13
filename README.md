@@ -43,11 +43,11 @@ This project is a simple CRUD (Create, Read, Update, Delete) application for man
 ## Screenshots
 
 1. **Homepage**
-   ![Homepage](frontend/screen_shot/1.png)
+   ![Homepage](/frontend/screen_shot/1.png)
 2. **Create Page**
-   ![Create Page](frontend/screen_shot/2.png)
+   ![Create Page](/frontend/screen_shot/2.png)
 3. **Edit Modal**
-   ![Edit Modal](frontend/screen_shot/3.png)
+   ![Edit Modal](/frontend/screen_shot/3.png)
 
 ---
 
